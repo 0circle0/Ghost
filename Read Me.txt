@@ -1,0 +1,10 @@
+Left Mouse Button -> Holy Light - Used to tame an angry ghost
+Right Mouse Button -> Exorcism Cross - Used to destroy and tame ghost
+
+Game Play:
+
+When destroying ghosts with the Exorcism Cross two angry ghosts will spawn for every one tame ghost destroyed.  If an angry ghost contacts a tame ghost then the tame ghost becomes angry.  If all ghosts are angry you lose the game.
+
+Scoring:
+
+Points are totaled by (tame ghosts - angry ghosts) and then added to your score when you use the Exorcism Cross on a tame ghost.  The more tame ghosts you have the faster your score will go up.
